@@ -13,6 +13,8 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)
 
+### Achievements
+[![An image of @adithya4720's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithya4720)](https://holopin.io/@adithya4720)
 
 ## 📈 Stats
 
