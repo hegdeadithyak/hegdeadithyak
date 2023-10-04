@@ -11,7 +11,7 @@
 ### Languages
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://simpleicons.org/icons/cplusplus.svg)
+![C++]([https://simpleicons.org/icons/cplusplus.svg](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++))
 
 
 ## 📈 Stats
