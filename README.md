@@ -24,4 +24,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Adithya4720&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
     <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Adithya4720.Not_Recommended" alt="visitors">
+    <br>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya4720&theme=dracula&count_private=true" alt="lavesh-akhadkar" /></p>
 </div>
