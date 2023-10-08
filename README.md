@@ -20,7 +20,7 @@
 
 <div align="center">
     <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Adithya4720&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya4720&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     <br >
     <img src="https://github-readme-stats.vercel.app/api?username=Adithya4720&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
     <br >
