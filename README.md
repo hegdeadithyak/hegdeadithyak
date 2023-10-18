@@ -25,10 +25,24 @@
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **chess**, **cricket**, **Songs**, and **reading books**.
 
+<div> 
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jeffersonrpm/"><img height="35" width="140" title="linkedin.com/in/jeffersonrpm" src="./img/linkedin.png">
+    </a>
+  </p>
+</div>
+
 ### Languages
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cplusplus)
+<a href="#">
+      <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </a>
+<a href="#">
+      <img align="center" alt="Logo do C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    </a>
+    <a href="#">
+      <img align="center" alt="Logo do C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    </a>
 
 ### Achievements
 [![An image of @adithya4720's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithya4720)](https://holopin.io/@adithya4720)
