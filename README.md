@@ -1,4 +1,21 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
+</a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Jefferson;I'm+from+Brazil;I'm+a+Developer;Be+Welcome!+ツ)
+
+<div align="center">
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adithya4720&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya4720&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
+  </a>
+</div> 
+   
+<br>
+<br>
 
 ## 🚀 About Me
 
@@ -23,7 +40,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=omidpurdarbani&theme=onedark)<br/>
     <br >
-    <img src="https://github-readme-stats.vercel.app/api?username=Adithya4720&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
     <br >
     <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adithy4720&theme=onedark&hide_border=false)<br/>
