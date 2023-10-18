@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Jefferson;I'm+from+Brazil;I'm+a+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Adithya+Hegde;I'm+from+Brazil;I'm+a+Developer;Be+Welcome!+ツ)
 
 <div align="center">
   <br>
@@ -43,9 +43,7 @@
     <br >
     <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adithy4720&theme=onedark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya4720&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Adithya4720.Not_Recommended" alt="visitors">
     <br>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya4720&theme=dracula&count_private=true" alt="lavesh-akhadkar" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya4720&theme=dracula&count_private=true" alt="adithya-hegde" /></p>
 </div>
