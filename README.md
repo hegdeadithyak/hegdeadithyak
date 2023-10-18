@@ -27,7 +27,7 @@
 
 <div> 
   <p align="center">
-    <a href="https://www.linkedin.com/in/jeffersonrpm/"><img height="35" width="140" title="linkedin.com/in/jeffersonrpm" src="./img/linkedin.png">
+    <a href="https://www.linkedin.com/in/hegdeadithyak"><img height="35" width="140" title="linkedin.com/in/hegdeadithyak" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">
     </a>
   </p>
 </div>
