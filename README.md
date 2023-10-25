@@ -45,7 +45,6 @@
     </a>
     <a href="#">
       <img align="center" alt="Logo do Rust" height="30" width="40" title="Rust"  rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-      
     </a>
 
 ### Achievements
