@@ -44,7 +44,7 @@
       <img align="center" alt="Logo do C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     </a>
     <a href="#">
-      <link align="center" alt="Logo do Rust" height="30" width="40" title="Rust"  rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+      <img align="center" alt="Logo do Rust" height="30" width="40" title="Rust"  rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
       
     </a>
 
