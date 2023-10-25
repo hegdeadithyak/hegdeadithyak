@@ -43,6 +43,9 @@
     <a href="#">
       <img align="center" alt="Logo do C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     </a>
+    <a href="#">
+      <img align="center" alt="Logo do C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg">
+    </a>
 
 ### Achievements
 [![An image of @adithya4720's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithya4720)](https://holopin.io/@adithya4720)
