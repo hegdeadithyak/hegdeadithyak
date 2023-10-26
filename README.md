@@ -59,7 +59,7 @@
     <br >
     <br >
     <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Adithya4720"/></a><br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adithya4720"/></a><br/>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Adithya4720.Not_Recommended" alt="visitors">
     <br>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya4720&theme=dracula&count_private=true" alt="adithya-hegde" /></p>
