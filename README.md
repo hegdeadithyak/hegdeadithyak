@@ -21,7 +21,7 @@
 
 🎓 I am Adithya Hegde.Kota , a **Undergrad Student at AMRITAVISHWAVIDYAPEETAM** (specializing in **Electronics and Computer Engineering**) and a **IEEE Member** and will graduate in mid-2026.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **huggingface**, **ansible** and others. I am really enthusiastic about learning new technology. 
+👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including,**juspay**, **huggingface**, **ansible** and others. I am really enthusiastic about learning new technology. 
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **chess**, **cricket**, **Songs**, and **reading books**.
 
