@@ -43,6 +43,6 @@ Feel free to copy and paste this into your README, and adjust it as needed. You 
 
 Feel free to reach out! Let's connect and collaborate on exciting projects.
 
-- Email: [your.email@example.com](mailto:adithyahegdek@gmail.com)
+- Email: [adithyahegdek@gmail.com](mailto:adithyahegdek@gmail.com)
 - LinkedIn: [Kota Adithya Hegde](https://www.linkedin.com/in/hegdeadithyak/)
-- Twitter: [@your_twitter_handle](https://twitter.com/)
+- Twitter: [@your_twitter_handle](https://twitter.com/hegdeadithyak)
