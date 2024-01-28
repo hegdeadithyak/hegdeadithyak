@@ -23,20 +23,20 @@ I've had the privilege of contributing to renowned companies and projects:
 Here are the technologies I work with:
 
 - **Frameworks:**
-  - [TensorFlow](https://www.tensorflow.org/): An open-source machine learning framework developed by Google.
-  - [PyTorch](https://pytorch.org/): An open-source deep learning framework developed by Facebook.
+  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white): An open-source machine learning framework developed by Google.
+  - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white): An open-source deep learning framework developed by Facebook.
 
 - **Languages:**
-  - **C:** A versatile and powerful programming language.
-  - **C++:** An extension of C with additional features, widely used in systems programming.
-  - **JavaScript (JS):** A popular scripting language for web development.
-  - **Python:** A versatile language known for its readability and ease of use.
+  - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white): A versatile and powerful programming language.
+  - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white): An extension of C with additional features, widely used in systems programming.
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black): A popular scripting language for web development.
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white): A versatile language known for its readability and ease of use.
 
 - **Runtimes:**
-  - [Node.js](https://nodejs.org/): A JavaScript runtime built on Chrome's V8 JavaScript engine.
-  - **CUDA (Learning):** Parallel computing platform and API model created by NVIDIA, currently in the learning phase.
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white): A JavaScript runtime built on Chrome's V8 JavaScript engine.
+  - ![CUDA (Learning)](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white): Parallel computing platform and API model created by NVIDIA, currently in the learning phase.
 
-Feel free to ask if you have any further modifications or additions!
+Feel free to copy and paste this into your README, and adjust it as needed. You can find the shields' images and customize their appearance on the respective shield services like [Shields.io](https://shields.io/).
 
 
 ## 📫 Let's Connect
