@@ -20,12 +20,29 @@ I've had the privilege of contributing to renowned companies and projects:
 
 ## 🔧 My Stack
 
-<!-- Add your tech stack here -->
+Here are the technologies I work with:
+
+- **Frameworks:**
+  - [TensorFlow](https://www.tensorflow.org/): An open-source machine learning framework developed by Google.
+  - [PyTorch](https://pytorch.org/): An open-source deep learning framework developed by Facebook.
+
+- **Languages:**
+  - **C:** A versatile and powerful programming language.
+  - **C++:** An extension of C with additional features, widely used in systems programming.
+  - **JavaScript (JS):** A popular scripting language for web development.
+  - **Python:** A versatile language known for its readability and ease of use.
+
+- **Runtimes:**
+  - [Node.js](https://nodejs.org/): A JavaScript runtime built on Chrome's V8 JavaScript engine.
+  - **CUDA (Learning):** Parallel computing platform and API model created by NVIDIA, currently in the learning phase.
+
+Feel free to ask if you have any further modifications or additions!
+
 
 ## 📫 Let's Connect
 
 Feel free to reach out! Let's connect and collaborate on exciting projects.
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Kota Adithya Hegde](https://www.linkedin.com/in/kota-adithya-hegde/)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Email: [your.email@example.com](mailto:adithyahegdek@gmail.com)
+- LinkedIn: [Kota Adithya Hegde](https://www.linkedin.com/in/hegdeadithyak/)
+- Twitter: [@your_twitter_handle](https://twitter.com/)
