@@ -23,18 +23,19 @@ I've had the privilege of contributing to renowned companies and projects:
 Here are the technologies I work with:
 
 - **Frameworks:**
-  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white): An open-source machine learning framework developed by Google.
-  - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white): An open-source deep learning framework developed by Facebook.
+  - <img src="https://www.gstatic.com/webp/gallery/2.jpg" alt="TensorFlow" height="30"> [TensorFlow](https://www.tensorflow.org/): An open-source machine learning framework developed by Google.
+  - <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" height="30"> [PyTorch](https://pytorch.org/): An open-source deep learning framework developed by Facebook.
 
 - **Languages:**
-  - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white): A versatile and powerful programming language.
-  - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white): An extension of C with additional features, widely used in systems programming.
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black): A popular scripting language for web development.
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white): A versatile language known for its readability and ease of use.
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1920px-The_C_Programming_Language_logo.svg.png" alt="C" height="30"> **C:** A versatile and powerful programming language.
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="30"> **C++:** An extension of C with additional features, widely used in systems programming.
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="JavaScript" height="30"> **JavaScript (JS):** A popular scripting language for web development.
+  - <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" height="30"> **Python:** A versatile language known for its readability and ease of use.
 
 - **Runtimes:**
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white): A JavaScript runtime built on Chrome's V8 JavaScript engine.
-  - ![CUDA (Learning)](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white): Parallel computing platform and API model created by NVIDIA, currently in the learning phase.
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" height="30"> [Node.js](https://nodejs.org/): A JavaScript runtime built on Chrome's V8 JavaScript engine.
+  - <img src="https://developer.nvidia.com/sites/default/files/pictures/2018/cuda-logo.jpg" alt="CUDA (Learning)" height="30"> CUDA (Learning): Parallel computing platform and API model created by NVIDIA, currently in the learning phase.
+
 
 Feel free to copy and paste this into your README, and adjust it as needed. You can find the shields' images and customize their appearance on the respective shield services like [Shields.io](https://shields.io/).
 
