@@ -45,4 +45,4 @@ Feel free to reach out! Let's connect and collaborate on exciting projects.
 
 - Email: [adithyahegdek@gmail.com](mailto:adithyahegdek@gmail.com)
 - LinkedIn: [Kota Adithya Hegde](https://www.linkedin.com/in/hegdeadithyak/)
-- Twitter: [@your_twitter_handle](https://twitter.com/hegdeadithyak)
+- Twitter: [@hegdeadithyak](https://twitter.com/hegdeadithyak)
