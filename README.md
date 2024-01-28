@@ -1,66 +1,100 @@
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
-</a>
+<!DOCTYPE html>
+<html lang="en">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Adithya+Hegde;I'm+from+India;I'm+a+Developer;Be+Welcome!+ツ)
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kota Adithya Hegde</title>
+    <style>
+      body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+}
 
-<div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adithya4720&show_icons=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&count_private=true&hide=contribs&hide_rank=true"/>
-  </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithya4720&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
-  </a>
-</div> 
-   
-<br>
-<br>
+.header {
+    text-align: center;
+    animation: fadeIn 1.5s ease-out;
+}
 
-## 🚀 About Me
+.about-me,
+.interests,
+.contributions,
+.stack,
+.connect {
+    margin-top: 30px;
+    animation: fadeInUp 1.5s ease-out;
+}
 
-🎓 I am Adithya Hegde.Kota , a **Undergrad Student at AMRITAVISHWAVIDYAPEETAM** (specializing in **Electronics and Computer Engineering**) and a **IEEE Member** and will graduate in mid-2026.
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including,**juspay**, **huggingface**, **ansible** and others. I am really enthusiastic about learning new technology. 
+    to {
+        opacity: 1;
+    }
+}
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **chess**, **cricket**, **Songs**, and **reading books**.
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
 
-<div> 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/hegdeadithyak"><img height="35" width="140" title="linkedin.com/in/hegdeadithyak" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin">
-    </a>
-  </p>
-</div>
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
 
-### Languages
+    </style>
+</head>
 
-<a href="#">
-      <img align="center" alt="Logo do Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </a>
-<a href="#">
-      <img align="center" alt="Logo do C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Rust" height="30" width="40" title="Rust"  rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-    </a>
+<body>
+    <div class="header">
+        <h1>Kota Adithya Hegde</h1>
+        <p>👋 Hello, I'm a passionate software developer and student at AMRITA VISHWA VIDYAPEETAM. Welcome to my GitHub profile! 🚀</p>
+    </div>
 
-### Achievements
-[![An image of @adithya4720's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adithya4720)](https://holopin.io/@adithya4720)
+    <div class="about-me">
+        <h2>About Me</h2>
+        <p>🖥️ Software Developer</p>
+        <p>📚 Student at AMRITA VISHWA VIDYAPEETAM</p>
+    </div>
 
-## 📈 Stats
+    <div class="interests">
+        <h2>My Interests</h2>
+        <p>💻 Open Source: I love contributing to and exploring open-source projects.</p>
+        <p>♟ Chess: A strategic game that keeps my mind sharp.</p>
+        <p>🎶 Music: It's the rhythm that keeps me going.</p>
+        <p>🛠️ Technology: Always curious about the latest advancements.</p>
+    </div>
 
-<div align="center">
-    <br/>
+    <div class="contributions">
+        <h2>Contributions</h2>
+        <p>I've had the privilege of contributing to renowned companies and projects:</p>
+        <ul>
+            <li><a href="https://huggingface.co">Hugging Face</a>: Contributed to the world of Natural Language Processing.</li>
+            <li><a href="https://www.ansible.com">Ansible</a>: Played a role in automation and configuration management.</li>
+        </ul>
+    </div>
 
-![](https://github-profile-trophy.vercel.app/?username=omidpurdarbani&theme=onedark)<br/>
-    <br >
-    <br >
-    <br/>
-    <br/>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Adithya4720.Not_Recommended" alt="visitors">
-    <br>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya4720&theme=dracula&count_private=true" alt="adithya-hegde" /></p>
-</div>
+    <div class="stack">
+        <h2>My Stack</h2>
+        <!-- Add your tech stack here -->
+    </div>
+
+    <div class="connect">
+        <h2>Let's Connect</h2>
+        <p>Feel free to reach out! Let's connect and collaborate on exciting projects. 😊</p>
+        <ul>
+            <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/kota-adithya-hegde/">Kota Adithya Hegde</a></li>
+            <li>Twitter: <a href="https://twitter.com/your_twitter_handle">@your_twitter_handle</a></li>
+        </ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
