@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a passionate software developer and a student at AMRITA VISHWA VIDYAPEETAM.
+I am a student at AMRITA VISHWA VIDYAPEETAM.
 
 ## 💻 Interests
 
