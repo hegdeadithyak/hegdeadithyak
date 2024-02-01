@@ -39,6 +39,8 @@ Here are the technologies I work with:
 
 ### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hegdeadithyak&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 ## 📫 Let's Connect
 
