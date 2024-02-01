@@ -35,8 +35,9 @@ Here are the technologies I work with:
   - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white): A JavaScript runtime built on Chrome's V8 JavaScript engine.
   - ![CUDA (Learning)](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white): Parallel computing platform and API model created by NVIDIA, currently in the learning phase.
 
-Feel free to copy and paste this into your README, and adjust it as needed. You can find the shields' images and customize their appearance on the respective shield services like [Shields.io](https://shields.io/).
+---
 
+### :fire: My Stats :
 
 
 ## 📫 Let's Connect
