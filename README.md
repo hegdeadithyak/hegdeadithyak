@@ -41,7 +41,6 @@ Here are the technologies I work with:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hegdeadithyak&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hegdeadithyak)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Let's Connect
 
