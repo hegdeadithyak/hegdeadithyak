@@ -23,7 +23,7 @@ I've had the privilege of contributing to renowned companies and projects:
 Here are the technologies I work with:
 
 - **Frameworks:**
-   ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png)
+   ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png)
 - **Languages:**
   ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v2.png) ![Python](https://img.icons8.com/color/48/000000/python--v1.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 
@@ -34,7 +34,7 @@ Here are the technologies I work with:
   ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 
 - **Learning Stack:**
-  ![CUDA](https://img.icons8.com/color/48/000000/nvidia.png) ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) ![Middlewares](https://img.icons8.com/dusk/64/000000/server.png) ![Zod](https://img.icons8.com/color/48/000000/zod.png)
+  ![CUDA](https://img.icons8.com/color/48/000000/nvidia.png)  ![Middlewares](https://img.icons8.com/dusk/64/000000/server.png) 
 
 ---
 
