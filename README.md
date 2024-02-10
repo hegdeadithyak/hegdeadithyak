@@ -34,7 +34,7 @@ Here are the technologies I work with:
   ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 
 - **Learning Stack:**
-  ![CUDA](https://img.icons8.com/color/48/000000/nvidia.png) ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) ![Middlewares](https://img.icons8.com/dusk/64/000000/server.png) ![Zod](https://img.icons8.com/color/48/000000/stop-sign.png)
+  ![CUDA](https://img.icons8.com/color/48/000000/nvidia.png) ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png) ![Middlewares](https://img.icons8.com/dusk/64/000000/server.png) ![Zod](https://img.icons8.com/color/48/000000/zod.png)
 
 ---
 
