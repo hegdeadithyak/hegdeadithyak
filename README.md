@@ -23,7 +23,7 @@ I've had the privilege of contributing to renowned companies and projects:
 Here are the technologies I work with:
 
 - **Frameworks:**
-   ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) ![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png)
+   ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) ![PyTorch]([https://img.icons8.com/color/48/000000/pytorch.png](https://icons8.com/icon/O6SWwpPIM0GB/pytorch)) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png)
 - **Languages:**
   ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v2.png) ![Python](https://img.icons8.com/color/48/000000/python--v1.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 
