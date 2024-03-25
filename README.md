@@ -8,12 +8,10 @@
 
 **I am interested as a machine learning engineer and love to integrate and apply models into production.**
 
-I am a passionate student at AMRITA VISHWA VIDYAPEETAM, driven by the desire to unlock the potential of data and create innovative solutions that positively impact the world. As an aspiring machine learning engineer, I find great satisfaction in integrating machine learning models into production systems, enabling real-world applications to leverage the power of artificial intelligence.
+I am a passionate student at **AMRITA VISHWA VIDYAPEETAM** , driven by the desire to unlock the potential of data and create innovative solutions that positively impact the world. As an aspiring machine learning engineer, I find great satisfaction in integrating machine learning models into production systems, enabling real-world applications to leverage the power of artificial intelligence.
 
 ## 💻 Interests
 
-- **Machine Learning:** I am captivated by the field of machine learning and its ability to extract insights from data and solve complex problems.
-- **Model Deployment:** I find great satisfaction in integrating machine learning models into production systems, enabling real-world applications to leverage the power of artificial intelligence.
 - **Open Source:** I love contributing to and exploring open-source projects, as I believe in the power of collaboration and shared knowledge.
 - **Chess:** A strategic game that keeps my mind sharp and challenges me to think critically.
 - **Music:** It's the rhythm that keeps me going and fuels my creativity.
