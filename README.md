@@ -52,6 +52,8 @@ Here are the technologies I work with:
 
 ### :fire: My Stats :
 
+![](https://komarev.com/ghpvc/?username=hegdeadithyak&color=green)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=hegdeadithyak&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hegdeadithyak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
