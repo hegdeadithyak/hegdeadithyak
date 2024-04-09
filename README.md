@@ -1,8 +1,5 @@
 # Hi there! 👋 I'm Kota Adithya Hegde
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coder GIF" width="400" height="300" />
-</p>
 
 ## 🚀 About Me
 
