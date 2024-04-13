@@ -5,7 +5,7 @@
 
 **I am interested as a machine learning engineer and love to integrate and apply models into production.**
 
-I am a passionate student at **AMRITA VISHWA VIDYAPEETAM** , driven by the desire to unlock the potential of data and create innovative solutions that positively impact the world. As an aspiring machine learning engineer, I find great satisfaction in integrating machine learning models into production systems, enabling real-world applications to leverage the power of artificial intelligence.
+I am a student at **AMRITA VISHWA VIDYAPEETAM** , driven by the desire to unlock the potential of data and create innovative solutions that positively impact the world. As an aspiring machine learning engineer, I find great satisfaction in integrating machine learning models into production systems, enabling real-world applications to leverage the power of artificial intelligence.
 
 ## 💻 Interests
 
