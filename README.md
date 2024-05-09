@@ -20,7 +20,7 @@ I've had the privilege of contributing to renowned companies and projects:
 
 - [**Hugging Face**](https://huggingface.co): Contributed to the world of Natural Language Processing.
 - [**Ansible**](https://www.ansible.com): Played a role in automation and configuration management.
-- [**OpenVino**]
+- [**OpenVino**](https://openvino.com): Added Operations such as Segment Sum,get output Shape etc.
 ## 🔧 Tech Stack
 
 Here are the technologies I work with:
