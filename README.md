@@ -1,56 +1,27 @@
-# Hi there! 👋 I'm Kota Adithya Hegde
+# Adithya Hegde Kota
 
+👋 Hi there! I'm Adithya Hegde Kota, a passionate Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham, India, with a strong interest in Software Development, Full Stack Machine Learning, Deep Learning, and more.
 
-## 🚀 About Me
+- 🌱 Currently, I'm exploring the intersection of software engineering and machine learning, working on projects that blend creativity with cutting-edge technology.
+- 💼 I have experience with a wide range of technologies including Python, C++, JavaScript, TensorFlow, React, and many others. I'm also actively involved in open-source projects.
+- 👯 I’m looking to collaborate on innovative AI/ML projects, especially those that can have a real-world impact.
 
-**I am interested as a machine learning engineer and love to integrate and apply models into production.**
+## 🛠️ Technical Skills
 
-I am a student at **AMRITA VISHWA VIDYAPEETAM** , driven by the desire to unlock the potential of data and create innovative solutions that positively impact the world. As an aspiring machine learning engineer, I find great satisfaction in integrating machine learning models into production systems, enabling real-world applications to leverage the power of artificial intelligence.
+- **Languages**: Python, C++, C, JavaScript, TypeScript
+- **Frameworks/Libraries**: React, Express, Next.js, TensorFlow, PyTorch, Keras, OpenCV, OpenVINO, Gradio
+- **Tools**: Git, GitHub, PyCharm, Vim
+- **Databases**: SQL, NoSQL, MongoDB
 
-## 💻 Interests
+## 🎓 Education
 
-- **Open Source:** I love contributing to and exploring open-source projects, as I believe in the power of collaboration and shared knowledge.
-- **Chess:** A strategic game that keeps my mind sharp and challenges me to think critically.
-- **Music:** It's the rhythm that keeps me going and fuels my creativity.
-- **Technology:** I'm always curious about the latest advancements and eager to learn and apply new technologies.
+**Bachelor of Technology in Electronics and Computer Engineering**  
+Amrita Vishwa Vidyapeetham, India (Oct 2022 – Apr 2026)  
+GPA: 9.19/10
 
-## 🌟 Contributions
+## 🔗 Connect with Me
 
-I've had the privilege of contributing to renowned companies and projects:
+- [LinkedIn](https://www.linkedin.com/in/hegdeadithyak)
+- [GitHub](https://github.com/hegdeadithyak)
 
-- [**Hugging Face**](https://huggingface.co): Contributed to the world of Natural Language Processing.
-- [**Ansible**](https://www.ansible.com): Played a role in automation and configuration management.
-- [**OpenVino**](https://openvino.com): Added Operations such as Segment Sum,get output Shape etc.
-## 🔧 Tech Stack
-
-Here are the technologies I work with:
-
-**Frameworks:**
-
-![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) ![PyTorch](https://img.icons8.com/fluency/48/pytorch.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![OpenCV](https://img.icons8.com/color/48/000000/opencv.png)
-
-**Languages:**
-
-![C](https://img.icons8.com/color/48/000000/c-programming.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v2.png) ![Python](https://img.icons8.com/color/48/000000/python--v1.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
-
-**Runtimes:**
-
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-
-**Databases:**
-
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
-
-**Learning Stack:**
-
-![CUDA](https://img.icons8.com/color/48/000000/nvidia.png) ![Middlewares](https://img.icons8.com/dusk/64/000000/server.png)
-
----     
-
-## 📫 Let's Connect
-
-Feel free to reach out! Let's connect and collaborate on exciting projects.
-
-- Email: [adithyahegdek@gmail.com](mailto:adithyahegdek@gmail.com)
-- LinkedIn: [Kota Adithya Hegde](https://www.linkedin.com/in/hegdeadithyak/)
-- Twitter: [@hegdeadithyak](https://twitter.com/hegdeadithyak)
+Looking forward to connecting and collaborating on exciting projects!
