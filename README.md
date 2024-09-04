@@ -1,6 +1,6 @@
-# Adithya Hegde Kota
+# 👋 Hi there
 
-👋 Hi there! I'm Adithya Hegde Kota, a passionate Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham, India, with a strong interest in Software Development, Full Stack Machine Learning, Deep Learning, and more.
+I'm Adithya Hegde Kota, a passionate Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham, India, with a strong interest in Software Development, Full Stack Machine Learning, Deep Learning, and more.
 
 - 🌱 Currently, I'm exploring the intersection of software engineering and machine learning, working on projects that blend creativity with cutting-edge technology.
 - 💼 I have experience with a wide range of technologies including Python, C++, JavaScript, TensorFlow, React, and many others. I'm also actively involved in open-source projects.
