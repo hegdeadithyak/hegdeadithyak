@@ -12,7 +12,7 @@ I'm Adithya Hegde Kota, a passionate Electronics and Computer Engineering studen
 - **Frameworks/Libraries**: React, Express, Next.js,  Prisma,  Hono(Cloudfare Workers),  Zod, TensorFlow, PyTorch, Keras, OpenCV, OpenVINO, Gradio
 - **Tools**: Git, GitHub, PyCharm, Vim, PostMan
 - **Databases**: SQL, NoSQL, MongoDB
-- 
+  
 ## 🎓 Education
 
 **Bachelor of Technology in Electronics and Computer Engineering**  
@@ -22,6 +22,6 @@ GPA: 9.19/10
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/hegdeadithyak)
-- [GitHub](https://github.com/hegdeadithyak)
+- [GitHub](https://github.com/hegdeadithyak/issues)
 
 Looking forward to connecting and collaborating on exciting projects!
