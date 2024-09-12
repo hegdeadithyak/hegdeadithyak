@@ -18,10 +18,16 @@ An Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham, I
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hegdeadithyak&theme=radical)
 
+## 🚀 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hegdeadithyak&layout=compact&theme=radical)
+
+## 💻 Commits by Language
+![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hegdeadithyak&theme=radical)
+
 ## 🎓 Education
 **B.Tech in Electronics & Computer Engineering**  
 Amrita Vishwa Vidyapeetham (2022 – 2026) | GPA: 9.19/10
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/hegdeadithyak)
-- [GitHub](https://github.com/hegdeadithyak/hegdeadithya/issues)
+- [GitHub](https://github.com/hegdeadithyak/issues)
