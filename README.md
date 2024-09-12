@@ -1,27 +1,27 @@
-# 👋 Hi there
+# 👋 Hi, I'm Adithya Hegde Kota
 
-I'm Adithya Hegde Kota, a passionate Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham, India, with a strong interest in Software Development, Full Stack Machine Learning, Deep Learning, and more.
+An Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham, India, passionate about software development and machine learning.
 
-- 🌱 Currently, I'm exploring the intersection of software engineering and machine learning, working on projects that blend creativity with cutting-edge technology.
-- 💼 I have experience with a wide range of technologies including Python, C++, JavaScript, TensorFlow, React, and many others. I'm also actively involved in open-source projects.
-- 👯 I’m looking to collaborate on innovative AI/ML projects, especially those that can have a real-world impact.
-
-## 🛠️ Technical Skills
-
-- **Languages**: Python, C++, C, JavaScript, TypeScript
-- **Frameworks/Libraries**: React, Express, Next.js,  Prisma,  Hono(Cloudfare Workers),  Zod, TensorFlow, PyTorch, Keras, OpenCV, OpenVINO, Gradio
-- **Tools**: Git, GitHub, PyCharm, Vim, PostMan
-- **Databases**: SQL, NoSQL, MongoDB
+- 🌱 **Exploring**: The fusion of software engineering and AI/ML to build impactful, real-world solutions.
+- 🛠️ **Skills**: Python, C++, JavaScript, TensorFlow, React, Hono (Cloudflare Workers), Prisma, and more.
+- 💼 **Open to Collaborations**: On innovative AI/ML projects and open-source contributions.
   
+## ⚙️ Tech Stack Highlights
+- **Languages**: Python, C++, JavaScript, TypeScript
+- **Frameworks**: React, Next.js, Express, TensorFlow, PyTorch
+- **Tools**: Git, PyCharm, Postman, Vim
+- **Databases**: SQL, NoSQL, MongoDB
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hegdeadithyak&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hegdeadithyak&theme=radical)
+
 ## 🎓 Education
+**B.Tech in Electronics & Computer Engineering**  
+Amrita Vishwa Vidyapeetham (2022 – 2026) | GPA: 9.19/10
 
-**Bachelor of Technology in Electronics and Computer Engineering**  
-Amrita Vishwa Vidyapeetham, India (Oct 2022 – Apr 2026)  
-GPA: 9.19/10
-
-## 🔗 Connect with Me
-
+## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/hegdeadithyak)
-- [GitHub](https://github.com/hegdeadithyak/issues)
-
-Looking forward to connecting and collaborating on exciting projects!
+- [GitHub](https://github.com/hegdeadithyak/hegdeadithya/issues)
