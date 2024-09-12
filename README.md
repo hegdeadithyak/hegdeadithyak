@@ -9,10 +9,10 @@ I'm Adithya Hegde Kota, a passionate Electronics and Computer Engineering studen
 ## 🛠️ Technical Skills
 
 - **Languages**: Python, C++, C, JavaScript, TypeScript
-- **Frameworks/Libraries**: React, Express, Next.js, TensorFlow, PyTorch, Keras, OpenCV, OpenVINO, Gradio
-- **Tools**: Git, GitHub, PyCharm, Vim
+- **Frameworks/Libraries**: React, Express, Next.js,  Prisma,  Hono(Cloudfare Workers),  Zod, TensorFlow, PyTorch, Keras, OpenCV, OpenVINO, Gradio
+- **Tools**: Git, GitHub, PyCharm, Vim, PostMan
 - **Databases**: SQL, NoSQL, MongoDB
-
+- 
 ## 🎓 Education
 
 **Bachelor of Technology in Electronics and Computer Engineering**  
