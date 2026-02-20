@@ -1,30 +1,35 @@
-# 👋 Hi, I'm Adithya Hegde Kota
+<div align="center">
 
-An Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham, India, passionate about software development and machine learning.
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║      kernel space is where the real work happens             ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-- 🌱 **Exploring**: The fusion of software engineering and AI/ML to build impactful, real-world solutions.
-- 🛠️ **Skills**: Python, C++, JavaScript, TensorFlow, React, Hono (Cloudflare Workers), Prisma, and more.
-- 💼 **Open to Collaborations**: On innovative AI/ML projects and open-source contributions.
-  
-## ⚙️ Tech Stack Highlights
-- **Languages**: Python, C++, JavaScript, TypeScript
-- **Frameworks**: React, Next.js, Express, TensorFlow, PyTorch
-- **Tools**: Git, PyCharm, Postman, Vim
-- **Databases**: SQL, NoSQL, MongoDB
+# Adithya Hegde Kota
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hegdeadithyak&show_icons=true&theme=radical)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hegdeadithyak&theme=radical)
+*Distributed Storage · Low-Level Systems · Data Infrastructure*
 
-## 💻 Commits by Language
-![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hegdeadithyak&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:you@email.com)
 
-## 🎓 Education
-**B.Tech in Electronics & Computer Engineering**  
-Amrita Vishwa Vidyapeetham (2022 – 2026) | GPA: 9.19/10
+</div>
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/hegdeadithyak)
-- [GitHub](https://github.com/hegdeadithyak/issues)
+---
+
+## Who I Am
+
+I'm a Software Engineer, working on the infrastructure that enterprises trust to protect their data at scale — distributed file systems, backup engines, snapshot pipelines, and the storage stack beneath them.
+
+My foundation is in **low-level systems engineering** — the kind of work that lives close to the metal:
+- Memory layouts, cache hierarchies, and avoiding false sharing
+- Lock-free data structures and memory ordering semantics
+- Filesystem internals: journaling, CoW semantics, block allocation strategies
+- Kernel bypass I/O (io_uring, DPDK) and zero-copy data paths
+- POSIX storage APIs, VFS, and what actually happens below `write(2)`
+
+I care about **why systems are designed the way they are**, not just how to use them. That means reading source (Linux kernel, RocksDB, Ceph) before reaching for documentation.
