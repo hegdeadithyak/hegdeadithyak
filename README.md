@@ -9,7 +9,7 @@
 ```
 
 # Adithya Hegde Kota
-**Distributed Systems · Low-Level Systems · **
+**Distributed Systems · Low-Level Systems ·**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourhandle)
