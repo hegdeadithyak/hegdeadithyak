@@ -16,7 +16,7 @@
 </pre>
 </div>
 
-Systems engineer. I like to work close to the hardware,, I intend storage infrastructure,inference.  
+Systems engineer. I like to work close to the hardware, I intend storage infrastructure,inference.  
 I learn by reading source code. It's slower. It works.  
 Still figuring it out.
 
